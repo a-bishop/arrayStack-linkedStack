@@ -1,0 +1,200 @@
+bold
+auto format
+bold
+REDO
+copy text
+auto format
+italic
+REDO
+italic
+typing
+italic
+typing
+copy text
+UNDO
+typing
+copy text
+bold
+REDO
+auto format
+typing
+UNDO
+typing
+italic
+bold
+bold
+italic
+copy text
+UNDO
+UNDO
+auto format
+typing
+UNDO
+REDO
+auto format
+italic
+typing
+italic
+UNDO
+typing
+italic
+bold
+copy text
+UNDO
+auto format
+copy text
+auto format
+italic
+auto format
+REDO
+italic
+bold
+italic
+REDO
+REDO
+auto format
+auto format
+typing
+UNDO
+copy text
+UNDO
+UNDO
+REDO
+bold
+italic
+auto format
+italic
+bold
+REDO
+typing
+REDO
+REDO
+typing
+auto format
+UNDO
+italic
+bold
+bold
+copy text
+typing
+bold
+REDO
+UNDO
+UNDO
+italic
+REDO
+bold
+auto format
+copy text
+bold
+bold
+bold
+typing
+auto format
+bold
+UNDO
+copy text
+typing
+typing
+copy text
+copy text
+auto format
+copy text
+italic
+italic
+copy text
+REDO
+copy text
+auto format
+copy text
+UNDO
+copy text
+bold
+italic
+typing
+bold
+typing
+REDO
+REDO
+copy text
+italic
+bold
+REDO
+bold
+italic
+REDO
+UNDO
+copy text
+copy text
+italic
+REDO
+italic
+auto format
+auto format
+REDO
+copy text
+auto format
+italic
+bold
+typing
+copy text
+auto format
+auto format
+bold
+auto format
+copy text
+UNDO
+italic
+italic
+bold
+bold
+bold
+bold
+typing
+UNDO
+typing
+REDO
+italic
+italic
+typing
+italic
+typing
+UNDO
+auto format
+REDO
+bold
+auto format
+REDO
+UNDO
+auto format
+REDO
+typing
+typing
+auto format
+UNDO
+REDO
+UNDO
+UNDO
+REDO
+auto format
+copy text
+REDO
+italic
+auto format
+italic
+copy text
+copy text
+italic
+typing
+UNDO
+copy text
+REDO
+bold
+UNDO
+REDO
+typing
+UNDO
+auto format
+UNDO
+bold
+bold
