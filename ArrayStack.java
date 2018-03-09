@@ -1,21 +1,5 @@
 /*
  Array implementation of stacks.
-
-      push
-     set array[nextIndex] = data
-     increment nextIndex
-
-     expandCapacity
-     make a new array twice as long
-     copy elements from old to new Array
-     set data member to the new array
-
-     general case
-     decrement nextIndex
-     return array[nextIndex]
-
-     special case
-     empty stack
 */
 
 public class ArrayStack implements Stack {
